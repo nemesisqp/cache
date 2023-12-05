@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="64" height="64"><svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+    <defs>
+        <radialGradient id="SvgjsRadialGradient1002" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+            <stop offset="0%" style="stop-color: #050505"></stop>
+            <stop offset="100%" style="stop-color: #151515"></stop>
+        </radialGradient>
+        <linearGradient id="SvgjsLinearGradient1001" x1="-.828%" x2="57.636%" y1="7.652%" y2="78.411%">
+            <stop offset="0%" stop-color="#41D1FF"></stop>
+            <stop offset="100%" stop-color="#BD34FE"></stop>
+        </linearGradient>
+        <linearGradient id="SvgjsLinearGradient1000" x1="43.376%" x2="50.316%" y1="2.242%" y2="89.03%">
+            <stop offset="0%" stop-color="#FFEA83"></stop>
+            <stop offset="8.333%" stop-color="#FFDD35"></stop>
+            <stop offset="100%" stop-color="#FFA800"></stop>
+        </linearGradient>
+    </defs>
+    <circle cx="32" cy="32" r="30" fill="url(#grad1)"></circle>
+    <circle cx="32" cy="32" r="26" fill="url(#logoGradient)"></circle>
+    <path d="M32 20.313l8.071 15.16H23.929L32 20.313zm0 23.374l-8.071-15.16h16.142L32 43.687z" stroke="url(#grad2)" stroke-width="9"></path>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+</style></svg>
